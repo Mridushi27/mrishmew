@@ -1,1 +1,1 @@
-python -m http.server 8000
+pip install Flask scikit-learn pandas numpy
